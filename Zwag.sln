@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zwag", "Zwag\Zwag.csproj", "{560FA60E-839F-487A-8A7B-D30C52149FA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{560FA60E-839F-487A-8A7B-D30C52149FA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560FA60E-839F-487A-8A7B-D30C52149FA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560FA60E-839F-487A-8A7B-D30C52149FA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560FA60E-839F-487A-8A7B-D30C52149FA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {228B3FBA-C187-48D2-BC4B-5A8AE20D1B74}
+	EndGlobalSection
+EndGlobal
